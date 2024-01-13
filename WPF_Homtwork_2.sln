@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Homtwork_2", "WPF_Homtwork_2.csproj", "{61326D42-F2FC-41BD-8678-C97742A9D9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61326D42-F2FC-41BD-8678-C97742A9D9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61326D42-F2FC-41BD-8678-C97742A9D9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61326D42-F2FC-41BD-8678-C97742A9D9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61326D42-F2FC-41BD-8678-C97742A9D9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AC3918-8910-4F10-8008-4BC71EFB06E0}
+	EndGlobalSection
+EndGlobal
